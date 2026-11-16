@@ -1,0 +1,5 @@
+lun: ita, mate, sto, info
+mar: sto; ef, ef, sis
+mer: info, info, ita, mate
+gio: mate, ita, info , sis
+ven:info, sis, ita, ita
